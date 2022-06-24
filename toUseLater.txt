@@ -1,0 +1,17 @@
+// const handleAddingRates = () => {
+  //   if (!data) {
+  //     return;
+  //   }
+  //   dispatch(addRate(data.info.rate));
+  //   d.setDate(d.getDate() - 1);
+  // };
+
+   // const [userData, setUserData] = useState({
+  //   labels : UserData.map((data) => data.year ),
+  //   datasets : [
+  //     {
+  //       label : "Users Gained",
+  //       data : UserData.map(data => data.userGain)
+  //     }
+  //   ]
+  // })
