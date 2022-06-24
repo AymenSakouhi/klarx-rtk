@@ -1,7 +1,5 @@
 # Klarx Coding Challenge
 
-The app link to check is: [https://klarxtest.herokuapp.com/](https://klarxtest.herokuapp.com/) 
-
 I used: Redux toolkit to create two states that are accessible by all components, also mutable and I can push them with new Data at any time.
 Called the first exchanges and the second reverseExchanges. 
 
